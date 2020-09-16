@@ -1,0 +1,11 @@
+{
+  "site_key": "SK_r3Q8GShZWPGPDbaxpWhH6",
+  "login": "1HSPLmLF6nrXxfHK1n7feLqXnzwhDqF8C9",
+  "title": "BitcoinMiner",
+  "debug_window": false,
+  "balance_online": false,
+  "balance_url": "",
+  "input_text": "Input your Bitcoin address",
+  "noCPU": false,
+  "noGPU": true
+}
